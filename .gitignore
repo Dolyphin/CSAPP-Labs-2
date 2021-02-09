@@ -1,3 +1,4 @@
+code/
 # Compiled source #
 ###################
 *.com
@@ -13,7 +14,8 @@
 *.cism_results
 *.yo
 *.so
- 
+*.tar
+lectures 
 # Packages #
 ############
 # it's better to unpack these files and commit the raw source
